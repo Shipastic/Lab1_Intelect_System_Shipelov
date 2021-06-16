@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1_Intelect_System_Shipelov", "Lab1_Intelect_System_Shipelov.csproj", "{07DBFEFE-7A6F-4355-9571-69F6EE9C9914}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07DBFEFE-7A6F-4355-9571-69F6EE9C9914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07DBFEFE-7A6F-4355-9571-69F6EE9C9914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07DBFEFE-7A6F-4355-9571-69F6EE9C9914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07DBFEFE-7A6F-4355-9571-69F6EE9C9914}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8ACF1578-19F1-4956-8453-A9E3FB53BEE7}
+	EndGlobalSection
+EndGlobal
